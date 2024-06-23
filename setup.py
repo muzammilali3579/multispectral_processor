@@ -19,7 +19,7 @@ setup(
     description='A package to process multispectral images.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/multispectral_processor',
+    url='https://github.com/muzammilali3579/multispectral_processor.git',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
